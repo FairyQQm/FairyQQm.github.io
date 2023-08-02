@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title></title>
+      <link href="/posts/0.html"/>
+      <url>/posts/0.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="javascript-基础"><a href="#javascript-基础" class="headerlink" title="javascript 基础"></a>javascript 基础</h2><p>练习：输入和输出练习</p><p>需求：</p><p>• 浏览器弹出对话框：你好，程序员</p><p>• 页面控制台输出：今年一定要上岸！</p><p>• 页面中打印输出：怎么说，亿万富婆？</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br></pre></td><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt;</span><br><span class="line">&lt;html lang=&quot;en&quot;&gt;</span><br><span class="line">&lt;head&gt;</span><br><span class="line">  &lt;meta charset=&quot;UTF-8&quot;&gt;</span><br><span class="line">  &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;</span><br><span class="line">  &lt;title&gt;Document&lt;/title&gt;</span><br><span class="line">&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">  &lt;!-- &lt;script&gt;</span><br><span class="line">    // 1.文档输入内容</span><br><span class="line">    document.write(&#x27;我是div标签&#x27;)</span><br><span class="line">    document.write(&#x27;&lt;h1&gt;我是标题&lt;/h1&gt;&#x27;)</span><br><span class="line">    // 2.控制台打印输出内容（给程序员看的）</span><br><span class="line">    console.log(&#x27;控制台中看看&#x27;);</span><br><span class="line">    console.log(&#x27;好好学习&#x27;);</span><br><span class="line">    // 3.输入语句</span><br><span class="line">    prompt(&#x27;请输入您的年龄：&#x27;)</span><br><span class="line">  &lt;/script&gt; --&gt;</span><br><span class="line">  &lt;script&gt;</span><br><span class="line">    document.write(&#x27;今年一定要上岸&#x27;)</span><br><span class="line">    prompt(&#x27;你好，程序员&#x27;)</span><br><span class="line">    console.log(&#x27;怎么说，亿万富婆？&#x27;);</span><br><span class="line">  &lt;/script&gt;</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/posts/4a17b156.html"/>
       <url>/posts/4a17b156.html</url>
